@@ -1,6 +1,4 @@
-\begin{center}
-## Quality models proposed by McCall and Boehm
-\end{center}
+<center> <h1>## Quality models proposed by McCall and Boehm</h1> </center>
 
 | Quality Model | Operation | Maintainability | Flexibility |
 | --- | --- | --- | --- |
