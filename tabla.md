@@ -1,3 +1,7 @@
+p {
+    Quality models proposed by McCall and Boehm:center;
+ }
+
 | Quality Model | Operation | Maintainability | Flexibility |
 | --- | --- | --- | --- |
 | McCall | Evaluates the performance of the software during its execution and its ability to perform the required functions. | Focuses on the ease with which the software can be modified, corrected or improved over time. | Measures the ability of the software to adapt to changes in requirements or in the environment. |
